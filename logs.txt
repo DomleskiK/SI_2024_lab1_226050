@@ -1,0 +1,28 @@
+commit 5812d1535baa060a736bb751bed297415a0e4b46 (HEAD -> bug1)
+Author: unknown <kristijandomleski@gmail.com>
+Date:   Sun Apr 14 23:45:52 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 0c6ed1a9e3b58eb3f99d56d8b14259386d87fc68 (bug2)
+Author: unknown <kristijandomleski@gmail.com>
+Date:   Sun Apr 14 23:41:20 2024 +0200
+
+    Add starter code
+
+commit aa7e7a7eddc2c6cfffe41c893f6d112ec5a791dc
+Author: unknown <kristijandomleski@gmail.com>
+Date:   Sun Apr 14 23:38:45 2024 +0200
+
+    Initial commit
+commit 0c6ed1a9e3b58eb3f99d56d8b14259386d87fc68 (HEAD -> bug2)
+Author: unknown <kristijandomleski@gmail.com>
+Date:   Sun Apr 14 23:41:20 2024 +0200
+
+    Add starter code
+
+commit aa7e7a7eddc2c6cfffe41c893f6d112ec5a791dc
+Author: unknown <kristijandomleski@gmail.com>
+Date:   Sun Apr 14 23:38:45 2024 +0200
+
+    Initial commit
